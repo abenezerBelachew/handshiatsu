@@ -1,0 +1,22 @@
+{
+    "short_name": "Hand Shiatsu",
+    "name": "Hand Shiatsu For Sleep",
+    "description": "Hand Shiatsu for Sleep",
+    "icons": [
+      {
+        "src": "assets/img/portfolio/logo192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "assets/img/portfolio/logo512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#1abc9c",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#1abc9c"
+  }
